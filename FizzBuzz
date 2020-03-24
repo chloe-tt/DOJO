@@ -1,0 +1,14 @@
+const fizzBuzz = (i) => {
+  // Start here
+    if (i%15 === 0){
+    return "fizzbuzz";
+    }else if (i % 3 === 0) {
+      return "fizz"; 
+    } else if (i % 5 === 0){
+      return "buzz";
+    } 
+        return i;
+};
+module.exports = fizzBuzz;
+
+commencer tjs par le plus grand multiple

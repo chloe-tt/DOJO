@@ -12,3 +12,5 @@ const fizzBuzz = (i) => {
 module.exports = fizzBuzz;
 
 commencer tjs par le plus grand multiple
+
+qd on dit "est un multiple de 3 et de 5, faire 3x5 => multiple de 15
